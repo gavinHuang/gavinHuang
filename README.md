@@ -6,11 +6,18 @@ Builder based in Melbourne. I create AI-powered tools for voice, documents, and 
 
 ## Featured Projects
 
+### Latest
+
+| Project | Description |
+|---------|-------------|
+| [doctor-j](https://github.com/gavinHuang/doctor-j) | Diagnostic tool that scores how good a prompt is, based on Anthropic's J-Space research |
+
 ### Voice Agent
 
 | Project | Description |
 |---------|-------------|
 | [voice-agent](https://github.com/gavinHuang/voice-agent) | Real-time AI agent that makes outbound phone calls, navigates IVR menus, and lets supervisors monitor or take over live. Built on *shuo*, a ~600-line Python voice framework. Stack: Deepgram · Groq LLaMA 3.3 · ElevenLabs · Twilio — ~400ms latency |
+| [dialact-web](https://github.com/gavinHuang/dialact-web) | Landing page for Dialact, the voice-agent product |
 
 ### MCP (Model Context Protocol)
 
